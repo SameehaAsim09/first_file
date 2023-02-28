@@ -1,0 +1,8 @@
+Commands:
+
+* git version
+* git status
+* git add .
+* git config --global user.name"Enter user name here?"
+* git config --global user.email"Enter email here?"
+* git init          //to inatilize git
